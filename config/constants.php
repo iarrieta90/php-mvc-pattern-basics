@@ -1,5 +1,4 @@
 <?php
-
 //CONTROLLERS
 define("CONTROLLERS", BASE_PATH . '/controllers/');
 
